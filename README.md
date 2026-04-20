@@ -1,8 +1,15 @@
-<h2 align="left">Salve!<br>Sou Gabriel. Téc Informática e graduando Cibersegurança.<br>Ainda há muito o que colocar aqui.</h2>
+<h2 align="left">
+Salve!<br>
+Sou Gabriel. Téc Informática e graduando em Cibersegurança.<br>
+
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/no/search/mr-robot-gifs"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
 ###
 
