@@ -1,7 +1,4 @@
 <h2 align="left">
-Salve!<br>
-Sou Gabriel. Téc Informática e graduando em Cibersegurança.<br>
-
 
 ###
 
